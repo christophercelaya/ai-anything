@@ -1,27 +1,6 @@
-<p align="center">
-  <br>
-  <img width="100" src="assets/icons/logo.svg" alt="AI Anything logo">
-  <br>
-</p>
-<h2 align='center'>AI Anything</h2>
-
-<p align='center'>
-Anyone can create GPT tools
-<br>
-<p align="center">
-  <a style="text-decoration:none" href="https://aianything.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-aianything.netlify.app-00db80" alt="Website" />
-  </a>
-  <a style="text-decoration:none" href="https://github.com/KeJunMao" target="_blank">
-    <img src="https://img.shields.io/badge/Author-KeJun-00db80" alt="Author" />
-  </a>
-</p>
-
-English | [简体中文](./README.zh-cn.md)
-
 ## Introduction
 
-Most of the tools related to ChatGPT are essentially prompt adjustments, but AI Anything allows everyone to quickly create ChatGPT tools.
+Allows for quickly creating ChatGPT tools.
 
 ## Features
 
@@ -44,12 +23,8 @@ Most of the tools related to ChatGPT are essentially prompt adjustments, but AI 
 - Install dependencies using `pnpm install`
 - Run interactive tests using `pnpm dev`
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=KeJunMao/ai-anything&type=Timeline)](https://star-history.com/#KeJunMao/ai-anything&Timeline)
-
 ## License
 
-Made with 💛
+Made with 🤍
 
 Published under [MIT License](./LICENSE).
